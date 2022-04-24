@@ -1,3 +1,5 @@
+# MTA Bus Alerts
+
 This project aims to let people know when the bus is nearby. The user picks a bus route, a bus stop, and
 a number of minutes or number of stops, and this app will send them an email when their bus is near the
 bus stop (within the number of minutes or stops the user set).
